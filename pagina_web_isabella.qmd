@@ -2,7 +2,7 @@
 title: "DISTRIBUCIONES DE FRECUENCIAS"
 subtitle: "Teoría y conceptos"
 author: 
-  - name: Isabella Castiblanco Diaz
+  - name: Isabella Castiblanco
     affiliation: "Universidad del Tolima"
     affiliation-url: "https://www.ut.edu.co/"
 date: today
@@ -281,7 +281,7 @@ Una **distribución de frecuencias unidimensional** estudia una sola variable es
 Una tabla completa puede contener las siguientes columnas:
 
 | Valor o categoría | Frecuencia absoluta $f_i$ | Frecuencia relativa $h_i$ | Frecuencia acumulada $F_i$ | Frecuencia relativa acumulada $H_i$ |
-|----|---:|---:|---:|---:|
+|---------------|--------------:|--------------:|--------------:|--------------:|
 
 La estructura dependerá del tipo de variable y del objetivo del análisis.
 
@@ -651,7 +651,7 @@ La ventaja de utilizar `ggplot2` es que permite construir gráficos mediante una
 La principal diferencia se encuentra en el número de variables analizadas simultáneamente.
 
 | Característica | Unidimensional | Bidimensional |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Número de variables | 1 | 2 |
 | Objetivo | Describir una variable | Estudiar dos variables conjuntamente |
 | Frecuencia principal | $f_i$ | $n_{ij}$ |
