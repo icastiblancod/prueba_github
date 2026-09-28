@@ -2,7 +2,7 @@
 title: "DISTRIBUCIONES DE FRECUENCIAS"
 subtitle: "Teoría y conceptos"
 author: 
-  - name: Isabella Castiblanco
+  - name: Isabella Castiblanco Diaz
     affiliation: "Universidad del Tolima"
     affiliation-url: "https://www.ut.edu.co/"
 date: today
@@ -40,7 +40,7 @@ knitr:
 
 ```{=html}
 <div style="position:absolute; top:10px; right:10px;">
-<img src="Logo_ut.png" width="150">
+<img src="ut.png" width="150">
 </div>
 ```
 
